@@ -1,0 +1,5 @@
+No.|     Temuan                                            |   Perbaikan yang diperlukan                                |            Alasan
+1  |Aktor Mahasiswa diletakkan di dalam batas sistem       | Pindahkan aktor ke luar batas sistem                       |Agar posisi aktor sesuai dengan notasi UML
+2  |tidak ada usecase bentuk kotak                         | ubah fungsi menjadi elips                                  |agar sesuai dengan aturan
+3  |Mahasiswa terhubung dengan Kelola jadwal kuliah        | sesuaikan hubungan peran–fungsi                            |Mahasiswa hanya melihat jadwal kulia sedangkan Admin akademik yang mengelola jadwal
+4  | awalnya berjudul sistem laboratorium                  | perbaiki judul sistem menjadi Sistem Informasi Akademik    | karena sesuai dengan kasus       
