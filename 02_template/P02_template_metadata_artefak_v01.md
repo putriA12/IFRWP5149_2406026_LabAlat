@@ -5,7 +5,7 @@ Sumber kebutuhan  : LAB-R01; LAB-R02
 Jenis/status      : Use case diagram / LATIHAN NOTASI
 Kakas             : draw.io
 Pembuat           : 2406026_Putri Fitriani Azzahra
-Versi dan tanggal : v01 / [tanggal pengerjaan]
+Versi dan tanggal : v01 / 05 Oktober 2026
 Asumsi            : Hak akses sesuai; autentikasi di luar latihan
 Pemeriksaan       : [hasil review]
 Riwayat revisi    : [perubahan yang benar-benar dilakukan]
