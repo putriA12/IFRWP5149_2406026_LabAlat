@@ -7,3 +7,4 @@ Mata Kuliah : Prak Analisis & Desain Berorientasi Objek
 Kakas : Draw.io 
 Status latihan pertemuan 1 Pengenalan Lingkungan Praktikum dan kakas Pemodelan UML✅
 Status latihan pertemuan 2 UML✅
+Status latihan pertemuan 3 usecase✅
