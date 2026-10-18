@@ -22,3 +22,14 @@ Batas dan asumsi:
 Mahasiswa              | Mahasiswa dapat melihat  jadwal kuliah, mengajukan KRS, mengunduh bukti jika memilihnya pada konfirmasi pengajuan
 Admin akademik         | dapat mengelola jadwal kuliah 
 Dosen wali             | dapat memproses persetujuan atau penolakan KRS 
+
+
+  Sumber               |          Hubungan        |    Tujuan
+-----------------------------------------------------------------------------------------------
+Mahasiswa              | Asosiasi                 |  SIA-R01
+Mahasiswa              | Asosiasi                 |  SIA-R03
+Mahasiswa              | Asosiasi                 |  SIA-R05
+Admin Akademik         | Asosiasi                 |  SIA-R02
+Dosen wali             | Asosiasi                 |  SIA-R06
+SIA-R03                | <<include>>              |  SIA-R04
+SIA-R05                | <<extend>>               |  SIA-R03
