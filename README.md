@@ -8,3 +8,4 @@ Kakas : Draw.io
 Status latihan pertemuan 1 Pengenalan Lingkungan Praktikum dan kakas Pemodelan UML✅
 Status latihan pertemuan 2 UML✅
 Status latihan pertemuan 3 usecase✅
+Status latihan pertemuan 4 penulisan generalization dan collaboration✅
