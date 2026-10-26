@@ -9,3 +9,4 @@ Status latihan pertemuan 1 Pengenalan Lingkungan Praktikum dan kakas Pemodelan U
 Status latihan pertemuan 2 UML✅
 Status latihan pertemuan 3 usecase✅
 Status latihan pertemuan 4 penulisan generalization dan collaboration✅
+Status latihan pertemuan 5 SKENARIO USE CASE: DARI DIAGRAM KE LANGKAH KEGIATAN✅
