@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="erqZKFXR1bLj5BjwXcDL" name="1-ajukan peminjaman">
-        <mxGraphModel dx="1804" dy="1241" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1214" dy="952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -847,7 +847,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="U-EyKJJIMvjyW7Utez5i" name="Page-11">
-        <mxGraphModel dx="2062" dy="1069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="886" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -990,14 +990,6 @@
                 <mxCell id="x_HmLbShTn_BhTol5EAM-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Tabel 5.13 Skenario Use Case LAB-UC12 Periksa Kondisi Peralatan&lt;/b&gt;" vertex="1">
                     <mxGeometry height="30" width="310" x="712.5" y="60" as="geometry"/>
                 </mxCell>
-            </root>
-        </mxGraphModel>
-    </diagram>
-    <diagram id="gGFlwYde94MIDmOEU3t2" name="Page-12">
-        <mxGraphModel dx="2097" dy="965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-            <root>
-                <mxCell id="mH8SYeqxO32l5VrsobbM-0"/>
-                <mxCell id="mH8SYeqxO32l5VrsobbM-1" parent="mH8SYeqxO32l5VrsobbM-0"/>
             </root>
         </mxGraphModel>
     </diagram>
