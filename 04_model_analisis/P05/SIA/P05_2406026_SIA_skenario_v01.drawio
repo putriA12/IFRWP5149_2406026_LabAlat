@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="page1" name="Tabel 5.15 SIA-UC07">
-        <mxGraphModel dx="886" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1161" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -92,7 +92,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="page2" name="Tabel 5.16 SIA-UC08">
-        <mxGraphModel dx="1063" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1532" dy="885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -220,7 +220,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="page3" name="Tabel 5.17 SIA-UC09">
-        <mxGraphModel dx="886" dy="1864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1200" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -231,13 +231,13 @@
                     <mxGeometry height="30" width="330" x="20" y="54" as="geometry"/>
                 </mxCell>
                 <mxCell id="5" parent="1" style="rounded=0;whiteSpace=wrap;html=0;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;" value="SIA-UC09 Lihat KHS" vertex="1">
-                    <mxGeometry height="30" width="520" x="350" y="54" as="geometry"/>
+                    <mxGeometry height="30" width="330" x="350" y="54" as="geometry"/>
                 </mxCell>
                 <mxCell id="6" parent="1" style="rounded=0;whiteSpace=wrap;html=0;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;fontStyle=1;" value="Aktor" vertex="1">
                     <mxGeometry height="30" width="330" x="20" y="84" as="geometry"/>
                 </mxCell>
                 <mxCell id="7" parent="1" style="rounded=0;whiteSpace=wrap;html=0;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;" value="Mahasiswa" vertex="1">
-                    <mxGeometry height="30" width="520" x="350" y="84" as="geometry"/>
+                    <mxGeometry height="30" width="330" x="350" y="84" as="geometry"/>
                 </mxCell>
                 <mxCell id="8" parent="1" style="rounded=0;whiteSpace=wrap;html=0;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;fontStyle=1;" value="Tujuan" vertex="1">
                     <mxGeometry height="30" width="330" x="20" y="114" as="geometry"/>
@@ -315,7 +315,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="page4" name="Tabel 5.18 SIA-UC10">
-        <mxGraphModel dx="996" dy="1950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1385" dy="1969" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -431,7 +431,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="page5" name="Tabel 5.19 SIA-UC11">
-        <mxGraphModel dx="913" dy="1885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1263" dy="1899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -541,7 +541,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="page6" name="Tabel 5.20 SIA-UC12">
-        <mxGraphModel dx="895" dy="1871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -552,13 +552,13 @@
                     <mxGeometry height="30" width="330" x="20" y="54" as="geometry"/>
                 </mxCell>
                 <mxCell id="5" parent="1" style="rounded=0;whiteSpace=wrap;html=0;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;" value="SIA-UC12 Ubah Data Mahasiswa" vertex="1">
-                    <mxGeometry height="30" width="520" x="350" y="54" as="geometry"/>
+                    <mxGeometry height="30" width="330" x="350" y="54" as="geometry"/>
                 </mxCell>
                 <mxCell id="6" parent="1" style="rounded=0;whiteSpace=wrap;html=0;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;fontStyle=1;" value="Aktor" vertex="1">
                     <mxGeometry height="30" width="330" x="20" y="84" as="geometry"/>
                 </mxCell>
                 <mxCell id="7" parent="1" style="rounded=0;whiteSpace=wrap;html=0;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;" value="Admin Akademik" vertex="1">
-                    <mxGeometry height="30" width="520" x="350" y="84" as="geometry"/>
+                    <mxGeometry height="30" width="330" x="350" y="84" as="geometry"/>
                 </mxCell>
                 <mxCell id="8" parent="1" style="rounded=0;whiteSpace=wrap;html=0;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;fontStyle=1;" value="Tujuan" vertex="1">
                     <mxGeometry height="30" width="330" x="20" y="114" as="geometry"/>
@@ -648,7 +648,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="page7" name="Tabel 5.21 SIA-UC13">
-        <mxGraphModel dx="895" dy="1871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1241" dy="1886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
