@@ -11,3 +11,4 @@ Status latihan pertemuan 3 usecase✅
 Status latihan pertemuan 4 penulisan generalization dan collaboration✅
 Status latihan pertemuan 5 SKENARIO USE CASE: DARI DIAGRAM KE LANGKAH KEGIATAN✅
 Status latihan pertemuan 6 ACTIVITY DIAGRAM: DARI SKENARIO KE ALUR AKTIVITAS✅
+Status latihan pertemuan 7 ASSESMENT✅
